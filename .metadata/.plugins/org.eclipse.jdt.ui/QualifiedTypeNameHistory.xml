@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="entity.Item.ItemBuilder"/>
+<fullyQualifiedTypeName name="entity.Item"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.mongodb.client.model.UpdateOptions"/>
+<fullyQualifiedTypeName name="org.bson.Document"/>
+<fullyQualifiedTypeName name="external.ExternalAPIFactory"/>
+<fullyQualifiedTypeName name="external.ExternalAPI"/>
+<fullyQualifiedTypeName name="db.mongodb.MongoDBConnection"/>
+</qualifiedTypeNameHistroy>
